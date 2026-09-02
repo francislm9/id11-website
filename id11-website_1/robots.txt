@@ -1,4 +1,0 @@
-User-agent: *
-Allow: /
-
-Sitemap: https://resilient-dodol-1cbabf.netlify.app/sitemap.xml
